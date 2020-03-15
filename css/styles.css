@@ -1,0 +1,59 @@
+body {
+  background-color: white;
+  text-align: center;
+  font-family:'ABeeZee';
+  font-size: 1rem;
+
+}
+
+.topcontainer {
+  background-color: #fcf9ea;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.middlecontainer {
+  background-color: #badfdb;
+  height: 200px;
+  width: 200px;
+}
+
+.bottomcontainer {
+  background-color: #ffc5a1;
+  height: 200px;
+  width: 200px;
+}
+
+.top-cloud {
+  width: 20%;
+  height: 10%;
+
+}
+
+.mount{
+  width: 20%;
+  height: 10%;
+}
+
+h1 {
+  font-size: 10.625rem;
+  font-family: 'ABeeZee', cursive;
+  margin: 50px auto 0 auto;
+  color: #b21f66;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  color: #315b96;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  color: #3c4245;
+}
+
+p {
+  font-size: 2.5rem;
+}
